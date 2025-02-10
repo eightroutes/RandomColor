@@ -14,10 +14,13 @@
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-02-10 at 16 32 37](https://github.com/user-attachments/assets/9ad99e8a-b0a7-43ca-9262-658be37b5f5d)
 
 - AutoLayout을 적용하여 다른 기기에서도 동일한 위치에 오게끔 하였음
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="374" alt="Screenshot 2025-02-10 at 16 24 15" src="https://github.com/user-attachments/assets/adc3abae-b7b9-4fb9-8bef-77ef9da148bf" />
-  <img width="475" alt="Screenshot 2025-02-10 at 16 23 50" src="https://github.com/user-attachments/assets/cd7c0d7a-cf44-492e-8eb6-979bdda6fc18" />
-</div>
+<table>
+  <tr>
+    <td><img width="374" alt="Screenshot 2025-02-10 at 16 24 15" src="https://github.com/user-attachments/assets/adc3abae-b7b9-4fb9-8bef-77ef9da148bf" /></td>
+    <td><img width="475" alt="Screenshot 2025-02-10 at 16 23 50" src="https://github.com/user-attachments/assets/cd7c0d7a-cf44-492e-8eb6-979bdda6fc18" /></td>
+  </tr>
+</table>
+
 
 ### Comments
 - UIColor에서 RGB값을 적용하려면 0부터 1사이의 값을 적용해야함. 다른 방법이 있을 것 같지만, 일단 간단히 텍스트 변환시에 255를 곱하여 표현하였음.
